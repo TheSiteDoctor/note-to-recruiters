@@ -2,22 +2,23 @@
 
 ## Introduction
 
-Recruiting can be time consuming for small companies. There is no specialist team to deal with recruiting. It’s just us. We all have other work to be getting on with. We’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters add workload [cf: overhead reasons](overhead_reasons.md).
+Recruiting is time consuming for small companies. We have no specialist team to deal with recruiting, it’s just us!
 
-Please read our rules for working with us below. We don’t want to appear to be difficult to work with (we’re not) but we simply don’t have the time or capacity to manage agencies that don’t want to work with us in this way.
+We all have other work to be getting on with, and we’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters work in such a way that it adds a lot of workload to our process [see some of those reasons!](overhead_reasons.md).
 
-Agencies/Recruiters not following these rules will get blacklisted. Equally Agencies/Recruiters who stand out will be listed on the NTR under the ['Recommended Recruiters'](recommended_recruiters.md) section for other businesses to use.
+Please read our rules for working with us below. We want to build good relationships with good recruiters, and we will only put our effort into agencies that are able to work in a common way we can accomodate.
+
+Unfortunately, agencies and recruiters who don't respect our wishes will be added to our internal blacklist (there are enough companies out there to work with who are accomodating to these basic asks!).
 
 ## Policy
 
 #### Phone Calls
-* Do not call us. We do not take unsolicited calls for recruitment. Ever. Unsolicited calls are a fast way to make sure we won't work with you.
+* Do not call us. We do not take unsolicited calls for recruitment, ever! Unsolicited calls are a fast way to make sure we won't work with you.
 * If we're working together regarding a role or candidate, we'll explain how best to contact us about that role/candidate.
-* Do not call incessantly to find out if we’ve made a decision. We’ll give you a timeframe. If we say we’re going to get back to you on Monday, that’s when we’ll get back to you.
 
 #### Positions
-* If you want to know about available jobs, keep an eye on our jobs page or twitter feed.
-* Each position will have its own specific email address. Send CVs to that email address for that position only.
+* If you want to know about available jobs, keep an eye on our [https://akkroo.com/jobs](jobs page) or twitter feed.
+* Each position will have its own specific application process, to which we need to add you first. Please contact us first about being able to recruit for a role so we can set you up in our application process which attributes candidates back to you.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 
 #### CVs /  Candidates
@@ -29,8 +30,8 @@ Agencies/Recruiters not following these rules will get blacklisted. Equally Agen
 
 _Doing any of these will result in being automatically blacklisted and we won't work with you:_
 
-* Do not lie to us. Do not phone and say you know us when you don’t. Do not tell the person answering the phone a different story to the person who you are trying to get hold of.
-* Do not try to poach our staff. The whole team/office can hear when there is a recruiter on the line trying to do this. This makes both the person you’re speaking to uncomfortable, as well as the team around them. Do not do this.
+* Do not lie to us. Common examples of this include phoning and say you know us when you don’t. Do not tell the person answering the phone a different story to the person who you are trying to get hold of.
+* Do not try to poach our staff. The whole team/office can hear when there is a recruiter on the line trying to do this. This makes both the person you’re speaking to uncomfortable, as well as the team around them.
 * Passing on details of candidates you’ve placed to other recruiters to try to poach them after you’ve received your fee.
 
 

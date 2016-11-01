@@ -4,7 +4,7 @@
 
 Recruiting is time consuming for small companies. We have no specialist team to deal with recruiting, it’s just us!
 
-We all have other work to be getting on with, and we’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters work in such a way that it adds a lot of workload to our process [see some of those reasons!](overhead_reasons.md).
+We all have other work to be getting on with, and we’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters work in such a way that it adds a lot of workload to our process and you can [see some of those reasons here!](overhead_reasons.md).
 
 Please read our rules for working with us below. We want to build good relationships with good recruiters, and we will only put our effort into agencies that are able to work in a common way we can accomodate.
 

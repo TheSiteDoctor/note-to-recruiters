@@ -1,6 +1,6 @@
 # About the Akkroo Note To Recruiters
 
-This **Note to Recruiters Policy** was created to help recruiters looking to establish a working relationship with us to build the best possible relationship, and help us reduce the overheads of managing the administriative side of recruitment.
+This **Note to Recruiters Policy** was created to help recruiters wishing to establish a working relationship with us to build to understand a little more about our neds, and help us reduce the overheads of managing the administriative side of recruitment.
 
 This stems from two issues:
 

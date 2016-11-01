@@ -1,6 +1,8 @@
 # About the Akkroo Note To Recruiters
 
-This **Note to Recruiters** is here to help recruiters wishing to establish a working relationship with us to understand a little more about our needs, and help us with managing the administriative side of running our recruitment process.
+[Read the note here!](ntr.md)
+
+Our **[Note to Recruiters](ntr.md)** is here to help recruiters wishing to establish a working relationship with us to understand a little more about our needs, and help us with managing the administriative side of running our recruitment process.
 
 This stems from two issues:
 

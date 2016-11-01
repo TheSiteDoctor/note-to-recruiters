@@ -1,6 +1,6 @@
 # About the Akkroo Note To Recruiters
 
-This **Note to Recruiters Policy** was created to help recruiters wishing to establish a working relationship with us to build to understand a little more about our neds, and help us reduce the overheads of managing the administriative side of recruitment.
+This **Note to Recruiters** is here to help recruiters wishing to establish a working relationship with us to understand a little more about our needs, and help us with managing the administriative side of running our recruitment process.
 
 This stems from two issues:
 
@@ -22,7 +22,7 @@ Please fork it, change it. Also, if you feel there are changes that would benefi
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">NTR</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="akkroo.com" property="cc:attributionName" rel="cc:attributionURL">Akkroo</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
 
 <br>
-## Companies using variants of the Note to Recruiters
+## Companies using variants or other versions of the Note to Recruiters (NTR)
 
 * [vzaar](http://vzaar.com) - Online Video Hosting
 * [The Scale Factory](http://www.scalefactory.com/) - DevOps consultancy

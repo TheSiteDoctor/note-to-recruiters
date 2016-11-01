@@ -17,7 +17,7 @@ Unfortunately, agencies and recruiters who don't respect our wishes will be adde
 * If we're working together regarding a role or candidate, we'll explain how best to contact us about that role/candidate.
 
 #### Positions
-* If you want to know about available jobs, keep an eye on our [https://akkroo.com/jobs](jobs page) or twitter feed.
+* If you want to know about available jobs, keep an eye on our (https://akkroo.com/jobs)[jobs page] or twitter feed.
 * Each position will have its own specific application process, to which we need to add you first. Please contact us first about being able to recruit for a role so we can set you up in our application process which attributes candidates back to you.
 * Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
 

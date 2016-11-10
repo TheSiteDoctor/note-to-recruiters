@@ -1,32 +1,32 @@
-# Note for Recruiters
+# Note for Recruiters 
 
-## Introduction
+## 😃 Introduction
 
 Recruiting is time consuming for small companies. We have no specialist team to deal with recruiting, it’s just us!
 
-We all have other work to be getting on with, and we’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and many recruiters work in such a way that it adds a lot of workload to our process and you can [see some of those reasons here!](overhead_reasons.md).
+We all have other work to be getting on with, and we’re happy to work with recruiters if it makes our lives easier. However experience has shown that this is not always the case, and some recruiters work in such a way that it adds a lot of workload to our process and you can [see some of those reasons here!](overhead_reasons.md).
 
 Please read our rules for working with us below. We want to build good relationships with good recruiters, and we will only put our effort into agencies that are able to work in a common way we can accomodate.
 
-Unfortunately, agencies and recruiters who don't respect our wishes will be added to our internal blacklist (there are enough companies out there to work with who are accomodating to these basic asks!).
+Unfortunately, agencies and recruiters who don't respect our wishes will be added to our internal blacklist (there are enough companies out there to work with who accomodate these basic asks!).
 
 ## Policy
 
-#### Phone Calls
+#### ☎️ Phone Calls
 * Do not call us. We do not take unsolicited calls for recruitment, ever! Unsolicited calls are a fast way to make sure we won't work with you.
 * If we're working together regarding a role or candidate, we'll explain how best to contact us about that role/candidate.
 
-#### Positions
+#### 🌟 Positions
 * If you want to know about available jobs, keep an eye on our [jobs page](https://akkroo.com/jobs) or twitter feed.
 * Each position will have its own specific application process, to which we need to add you first. Please contact us first about being able to recruit for a role so we can set you up in our application process which attributes candidates back to you.
-* Read the role. Do not send contractors if we specify permanent staff. Do not send PHP developers for a Rails position.
+* Read the role. Do not send contractors if we specify permanent staff. Do not send Rails developers for a PHP position.
 
-#### CVs /  Candidates
+#### 📄 CVs / Candidates
 * Do not send us anonymous CVs - they will not be considered. If you send us a candidate, we want to know who they are, where they've worked and whether we've seen them before.
 * When sending us a CV, please include the candidate's salary expectations and availability.
 * We typically only consider candidates already in the UK. If they are not in the UK, please tell us.
 
-#### Unacceptable practices
+#### 😭 Unacceptable practices
 
 _Doing any of these will result in being automatically blacklisted and we won't work with you:_
 
@@ -35,7 +35,7 @@ _Doing any of these will result in being automatically blacklisted and we won't 
 * Passing on details of candidates you’ve placed to other recruiters to try to poach them after you’ve received your fee.
 
 
-## Terms & Fees
+## 🏁 Terms & Fees
 
 _These Terms supersede any similar terms in individual agency's contracts._
 
